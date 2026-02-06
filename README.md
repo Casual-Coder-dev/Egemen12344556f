@@ -41,7 +41,7 @@
 
 ## 🚧 Work In Progress
 <p align="left">
-  <a href="https://github.com/Casual-Coder-dev/Japanese-Learning-App">
+  <a href="https://github.com/Casual-Coder-dev/Japanese_Practice">
     <img src="https://img.shields.io/badge/Project-Japanese_Learning_App-BC002D?style=for-the-badge&logo=google-translate&logoColor=white" />
     <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" />
   </a>

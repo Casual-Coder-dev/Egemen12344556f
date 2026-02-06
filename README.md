@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Android Studio<br>🎯 Goals: Cyberdeck<br>🎲 Fun fact: Im 14 :/</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Android Studio<br>🎯 Goals: Cyberdeck<br>🎲 Fun fact: Im 14 :) </p>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.pinterest.com/pin/760123243389222291" height="40" alt="ue5 logo"/>
+  <img src="https://i.pinimg.com/1200x/4e/51/e6/4e51e673a4cab52660512041d00e9186.jpg" height="40" alt="ue5 logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
